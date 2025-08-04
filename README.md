@@ -59,7 +59,7 @@ Muitas vezes, aproveito um daqueles momentos disconexos e, sei lá, só crio ló
   
   <img src="https://github-readme-stats-three-chi-1rnx14bp5e.vercel.app/api?username=UmVitorAleatorio&theme=dark&show_icons=true&hide_border=true&count_private=true" height="165">
   
-  <img src="https://streak-stats.demolab.com?user=UmVitorAleatorio&exclude_days=Sun&theme=dark&hide_border=true&locale=pt_BR" height="165">
+  <img src="https://streak-stats.demolab.com?user=UmVitorAleatorio&exclude_days=Sun%2CSat&theme=dark&hide_border=true&locale=pt_BR" height="165">
 
 </div>
 
